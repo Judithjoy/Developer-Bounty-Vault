@@ -257,6 +257,6 @@ This smart contract is provided as-is for educational and development purposes. 
 - [Clarity Language Reference](https://docs.stacks.co/clarity/)
 - [Stacks Testnet](https://explorer.stacks.co/?chain=testnet)
 
----
+------------
 
 Built with ❤️ for the Stacks ecosystem
